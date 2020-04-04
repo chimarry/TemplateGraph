@@ -1,0 +1,8 @@
+6
+Prijedor Banjaluka Prnjavor Brcko Gradiska Sarajevo
+   0     200       0         300    300    500
+200        0        100       50    20      900
+0          100      60        70    0        0
+300        50       70        0     150     250
+300        20       0         150   0       800
+500       900       0         250   800      0
